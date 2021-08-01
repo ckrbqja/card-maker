@@ -1,5 +1,9 @@
-@value makerWhite from './common/color.css';
+@value makerGrey from './common/color.css';
 
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
-    background-color: makerWhite;
+    background-color: makerGrey;
 }
